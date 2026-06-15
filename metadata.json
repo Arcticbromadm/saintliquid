@@ -1,6 +1,6 @@
 {
-  "name": "Liquid Glass Sandbox",
-  "description": "An interactive playground to explore and tweak real-time liquid glass refraction, chromatic aberration, and displacement effects.",
+  "name": "Liquid Glass",
+  "description": ".",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
